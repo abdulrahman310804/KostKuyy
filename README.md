@@ -1,18 +1,3 @@
 # apk_kost
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# apk_kost
-# pppp
+Aplikasi ini bertujuan untuk mempermudah pengguna dalam menemukan kost yang sesuai dengan kebutuhan mereka. Aplikasi ini menyediakan informasi lengkap dan akurat mengenai kost, termasuk harga, fasilitas, foto, dan kontak pemilik, yang membantu pengguna membuat keputusan yang tepat. Dengan fitur pencarian dan filter yang canggih, pengguna dapat mencari kost berdasarkan lokasi, harga, tipe kamar, dan preferensi lainnya, seperti jarak ke kampus atau tempat kerja.
